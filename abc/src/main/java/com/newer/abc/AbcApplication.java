@@ -6,6 +6,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class AbcApplication {
 
+	// 这是一个注释
     public static void main(String[] args) {
         SpringApplication.run(AbcApplication.class, args);
     }
